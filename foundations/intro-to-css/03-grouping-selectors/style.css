@@ -1,0 +1,14 @@
+#one{
+        background-color: black;
+        color: white;
+       
+        
+        font-size: 28px;
+}
+
+#two{
+    background-color: yellow;
+    color: black;
+    outline-color: black;
+    font-size: 28px;
+}
